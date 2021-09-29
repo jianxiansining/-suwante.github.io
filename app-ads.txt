@@ -1,2 +1,7 @@
 google.com, pub-5817925467771303, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+uis.mobfox.com, 1174, DIRECT, 5529a3d1f59865be
+xandr.com,2850,RESELLER,f5ab79cb980f11d1
+openx.com,539249210,RESELLER,6a698e2ec38604c6
+pubmatic.com,156451,RESELLER,5d62403b186f2ace
+rubiconproject.com,17494,RESELLER,0bfd66d529a55807
