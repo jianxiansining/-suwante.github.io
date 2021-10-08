@@ -8,3 +8,4 @@ rubiconproject.com,17494,RESELLER,0bfd66d529a55807
 ad-generation.jp, 13442, DIRECT, 7f4ea9029ac04e53
 pubmatic.com, 158357, RESELLER, 5d62403b186f2ace
 aps.amazon.com, 11644100, RESELLER
+fivecdm.com, 162274, RESELLER
